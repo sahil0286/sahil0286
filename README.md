@@ -1,4 +1,4 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Khaled Badran </h1>
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Sahil Fakir </h1>
 
 ![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
 
@@ -116,19 +116,6 @@
 [![Sumo Deadlift 260 KG 573 lbs | Full Deadlift Training Session | Including Warm-Up](https://ytcards.demolab.com/?id=QPwowof0p9c&title=Sumo+Deadlift+260+KG+573+lbs+%7C+Full+Deadlift+Training+Session+%7C+Including+Warm-Up&lang=en&timestamp=1679753486&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Sumo Deadlift 260 KG 573 lbs | Full Deadlift Training Session | Including Warm-Up")](https://www.youtube.com/watch?v=QPwowof0p9c)
 <!-- END YOUTUBE-CARDS -->
 </div>
-
-<!-- Begin Youtube Buttons -->
-<!-- Resource/Reference:  https://github.com/DenverCoder1/custom-icon-badges -->
-<div class="youtube buttons" align="center">
-    <a href="https://www.youtube.com/channel/UCq1qtlU3urNPLd5yIwhht1w"  target="_blank">
-        <img alt="youtube subscribers" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCq1qtlU3urNPLd5yIwhht1w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-    </a> 
-    <a href="https://www.youtube.com/channel/UCq1qtlU3urNPLd5yIwhht1w"  target="_blank">
-        <img alt="youtube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCq1qtlU3urNPLd5yIwhht1w?color=%23E05D44&logo=eye&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-    </a> 
-</div>
-<br>
-<!-- End Youtube Buttons -->
 
 <!-- Statistics -->
 
