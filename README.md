@@ -3,12 +3,12 @@
 ![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a passionate, athletic, full stack software developer and occasional content creator. My aim is to make people's lives better & easier by developing applications and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life. This is why I occasionally post coding and tech videos. Aside from that, I am a very athletic person as I regularly practice Olympic weightlifting and Powerlifting. Hence, I also occasionally post some sports content.
+    Aspiring Full Stack Developer at Masai School with a passion 💖 for creating innovative and intuitive web applications. Proficient in HTML, CSS, and JavaScript, with a strong understanding of MERN Stack. Continuously seeking opportunities 🤝 to enhance my skills and knowledge, with a goal to contribute to the growth 💹 of a dynamic and fast-paced tech environment.
 <br>
 <br>
 <div align="center">
 
-[Email Me](mailto:khaledb.dev@gmail.com)
+[Email Me](mailto:fakiesahil0286@gamil.com)
 </div>
 </p>    
 <br>
