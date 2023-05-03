@@ -15,7 +15,7 @@
 <!-- About Me  -->
 
 <!-- Connect me  -->
-## 🌐 Connect me :
+## 🌐 Connect with me :
 <p align="left">
     <a href="https://www.linkedin.com/in/sahilfakir/" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/sahilfakir/" height="30" width="40" />
