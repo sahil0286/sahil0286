@@ -84,9 +84,13 @@
     </a> 
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
       <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-    </a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+    </a>    
+    <a href="https://www.typescriptlang.org/" target="_blank">
+       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+    </a>
+    <a href="https://expressjs.com/" target="_blank">
+       <img style="margin: 10px" src="https://user-images.githubusercontent.com/119412630/235841775-7693a60f-ff63-48f3-85ed-130994efaf68.png" height="50" />
+    </a>
 </div>
 
 </td><td valign="top" width="33%">
