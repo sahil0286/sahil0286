@@ -139,13 +139,17 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sahil0286&count_private=true&theme=algolia&border_radius=20)
 
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
 <!-- compact programming languages layout -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil0286&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
-<!--  End Stats Cards -->
+<!-- Statistics -->
 
+<!-- GitHub Trophies -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sahil0286&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 ---
+<!-- GitHub Trophies -->
+
 <!-- Begin Footer -->
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
