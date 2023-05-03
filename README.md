@@ -15,7 +15,7 @@
 <!-- About Me  -->
 
 <!-- Connect me  -->
-## 🌐 Socials:
+## 🌐 Socials :
 <p align="left">
     <a href="https://www.linkedin.com/in/sahilfakir/" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/sahilfakir/" height="30" width="40" />
@@ -29,7 +29,7 @@
 <br>
 <!-- Languages and Tools -->
 
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<h2 style="color: #44AEFB">⚙️ Languages and Tools :</h2>
 <div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
@@ -121,7 +121,7 @@
 <!-- Languages and Tools -->
 <!-- Statistics -->
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
+<h2 style="color: #44AEFB">📊 Statistics :</h2>
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
