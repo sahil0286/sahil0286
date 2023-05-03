@@ -119,8 +119,8 @@
 
 <br/>  
 <!-- Languages and Tools -->
-<!-- Statistics -->
 
+<!-- Statistics -->
 <h2 style="color: #44AEFB">📊 Statistics :</h2>
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
@@ -129,7 +129,6 @@
 <!-- Resources:  -->
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
 ![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahil0286&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
@@ -137,7 +136,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=sahil0286&count_private=true&theme=algolia&border_radius=20)
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
-    
 <!-- compact programming languages layout -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil0286&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
