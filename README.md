@@ -10,18 +10,11 @@
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
             Aspiring Full Stack Developer 👨🏻‍💻 at Masai School with a passion 💖 for creating innovative and intuitive web applications. Proficient in HTML, CSS, and JavaScript, with a strong understanding of MERN Stack. Continuously seeking opportunities 🤝 to enhance my skills and knowledge, with a goal to contribute to the growth 💹 of a dynamic and fast-paced tech environment.
 <br>
-<br>
-</p>
-- 🌱 I’m currently learning **React, Express**
+</p> 
 
-- 📫 How to reach me **fakirsahil0286@gmail.com** 
-
-
-
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sahilfakir/" target="blank"><img align="center" src="![icons8-linkedin](https://user-images.githubusercontent.com/119412630/235755392-c7ab87a7-ce44-46e2-bc5a-7eed268c7060.svg)
-" alt="https://www.linkedin.com/in/sahilfakir/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sahilfakir/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/sahilfakir/" height="30" width="40" /></a>
 </p>
 
 <!--  -->
@@ -38,8 +31,7 @@
 <table><tr><td valign="top" width="33%">
 
 
-
-### Frontend  
+<h2 align="center">Frontend</h2>
 <div align="center">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -76,7 +68,7 @@
 
 
 
-### Backend  
+<h2 align="center">Backend</h2>
 <div align="center">  
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
@@ -95,7 +87,7 @@
 
 
 
-### Additional Tools  
+<h2 align="center">Tools</h2>
 <div align="center">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
@@ -112,7 +104,9 @@
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
   </a>
-  
+  <a href="https://slack.com/" target="_blank" rel="noreferrer">
+      <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/> 
+  </a>
 </div>
 
 </td></tr></table>  
@@ -150,6 +144,9 @@
 <div class="footer" align="center" style="margin:15px;">
     <a href="mailto:fakirsahil0286@gmail.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
+    </a>
+    <a href="mailto:fakirsahil0286@gmail.com" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="gmail" width="40px"/>
     </a>
 </div>
 <!-- End Footer -->
