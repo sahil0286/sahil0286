@@ -135,26 +135,33 @@
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <div class="stats" align="center">
 
-![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahil0286&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahil0286&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sahil0286&count_private=true&theme=algolia&border_radius=20)
 
 <!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil0286&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil0286&layout=compact&show_icons=true&theme=algolia&border_radius=20) -->
 </div>
 <!-- Statistics -->
 
 <!-- GitHub Trophies -->
 ## 🏆 GitHub Trophies :
+<div class="trophy" align="center">
+ 
 ![](https://github-profile-trophy.vercel.app/?username=sahil0286&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
+</div>
+ 
 ---
+
+
 <!-- GitHub Trophies -->
+<!-- Begin Footer -->
 <!-- Profile View  -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sahil0286&label=Profile%20views&color=0e75b6&style=flat" alt="sahilfakir" /> </p>
 <!-- Profile View  -->
 
-<!-- Begin Footer -->
+
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <!-- End Footer -->
