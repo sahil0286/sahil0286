@@ -114,8 +114,14 @@
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
   </a>
+ <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+      <img  alt="Netlify" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/119412630/236117936-71981312-f4d3-4ca9-8e9a-ea5c8c97b819.svg"/> 
+  </a>
+ <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
+      <img  alt="Notion" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/119412630/236118138-352e8a81-3226-49b7-a598-0875a406cdeb.svg"/> 
+  </a>
   <a href="https://slack.com/" target="_blank" rel="noreferrer">
-      <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/> 
+      <img  alt="Slack" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/> 
   </a>
 </div>
 
