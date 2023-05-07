@@ -55,19 +55,19 @@
       <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
     </a>  
     <a href="https://www.tailwindcss.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
+      <img alt="tailwindcss" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
     </a>  
     <a href="https://chakra-ui.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" />
+      <img alt="chakra_ui" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" />
     </a>  
     <a href="https://mui.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" />
+      <img alt="mui" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" />
     </a>
     <a href="https://sass-lang.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
+        <img alt="sass" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
     </a>
     <a href="https://redux.js.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
+        <img alt="redux" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
     </a>
     </div>
     </td><td valign="top" width="33%">
@@ -84,12 +84,18 @@
     </a> 
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
       <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-    </a>    
-    <a href="https://www.typescriptlang.org/" target="_blank">
-       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
     </a>
     <a href="https://expressjs.com/" target="_blank">
-       <img style="margin: 10px" src="https://user-images.githubusercontent.com/119412630/235841775-7693a60f-ff63-48f3-85ed-130994efaf68.png" height="50" />
+       <img alt="expressjs" height="50" style="padding-right:10px;" src="https://user-images.githubusercontent.com/119412630/236661548-c15b6aa9-e4dc-4d2d-bbf9-eb3f772ffbc8.png" />
+    </a>
+ <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
+      <img  alt="axios" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/119412630/236660897-728ce24b-a7fc-4cd4-b3ef-b696950ad8c3.png"/>
+  </a>
+ <a href="https://www.json.org/" target="_blank" rel="noreferrer">
+      <img  alt="json" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/119412630/236660942-1d65ed70-d16c-4d56-85ad-f3d85cd2e67e.svg"/>
+  </a>
+ <a href="https://www.typescriptlang.org/" target="_blank">
+       <img alt="TypeScript" height="50" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" />
     </a>
 </div>
 
@@ -105,7 +111,7 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>
-     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
       <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
