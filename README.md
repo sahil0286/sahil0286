@@ -19,7 +19,7 @@
 <!-- Connect me  -->
 ## 🌐 Connect with me :
 <p align="left">
-    <a href="https://www.linkedin.com/in/sahilfakir/" target="blank">
+    <a href="https://www.linkedin.com/in/fakirsahil/" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/sahilfakir/" height="30" width="40" />
     </a>
     <a href="mailto:fakirsahil0286@gmail.com" target="_blank">
@@ -170,7 +170,7 @@
 <!-- GitHub Trophies -->
 <!-- Begin Footer -->
 <!-- Profile View  -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sahil0286&label=Profile%20views&color=0e75b6&style=flat" alt="sahilfakir" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sahil0286&label=Profile%20views&color=0e75b6&style=flat" alt="fakirsahil" /> </p>
 <!-- Profile View  -->
 
 
