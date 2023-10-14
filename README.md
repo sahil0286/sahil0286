@@ -9,7 +9,7 @@
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Full Stack Developer 👨🏻‍💻 with a passion 💖 for creating innovative and intuitive web applications. Proficient in HTML, CSS, and JavaScript, with a strong understanding of MERN Stack. Continuously seeking opportunities 🤝 to enhance my skills and knowledge, with a goal to contribute to the growth 💹 of a dynamic and fast-paced tech environment.
 <br>
 </p> 
-🔭 I’m currently working on my myntra clone Project
+<!-- 🔭 I’m currently working on my myntra clone Project -->
 <br>
 <!-- 🌱 I’m currently learning Windi css and Python  -->
 <!-- <br> -->
